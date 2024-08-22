@@ -1,7 +1,13 @@
+# Running
+
+- npm install
+- npx expo start -c
+
 
 # Output
 
-![alt text](https://github.com/jagadishreddy-r/Expo-WeatherWatch/blob/main/Output.mp4)
+[Output](https://github.com/jagadishreddy-r/Expo-WeatherWatch/blob/main/Output.mp4)
+
 
 # 🌩️ Weather Watch
 
