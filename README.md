@@ -1,3 +1,8 @@
+
+# Output
+
+![alt text](https://github.com/jagadishreddy-r/Expo-WeatherWatch/blob/main/Output.mp4)
+
 # 🌩️ Weather Watch
 
 Introducing *Weather Watch*, the app that delivers accurate weather forecasts, ensuring you’re always prepared for the day’s weather with a smile!
